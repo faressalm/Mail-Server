@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"classes","c":"filter","l":"filter()","url":"%3Cinit%3E()"},{"p":"classes","c":"filter","l":"getSearch(ILinkedList, String)","url":"getSearch(eg.edu.alexu.csd.datastructure.mailServer.ILinkedList,java.lang.String)"}]
